@@ -15195,8 +15195,8 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || '',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "bonifhace121",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "255716661569",              
+    OWNER_NAME: process.env.OWNER_NAME || "FAISAL_DURRANI",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "923479188912",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
     BOT : process.env.BOT_NAME || 'HANS_MD',
